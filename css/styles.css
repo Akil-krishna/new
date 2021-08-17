@@ -24,23 +24,7 @@ h1 {
 }
 
 img {
-  border: 3px solid #055052;
+  border: 3px solid #362222;
   border-radius: 50%
 }
-div {
-    width: 150px;
-    height: 150px;
-    background-color: #fff;
 
-    box-shadow: 120px 80px 40px 20px #0ff;
-  }
-@media screen and (max-width: 1020px) {
-  #container, #header, #content, #footer {
-    float: none;
-    width: auto;
-  }
- #subtitle, #share, #slider, #sidebar{
-    display:none;
-  }
-  p{ font-size: 2em; }
-}
